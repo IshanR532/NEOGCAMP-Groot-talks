@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&display=swap');
+:root {
+        --primary-color: #22c55e;
+        --black: black;
+        --width-break: 600px;
+    }
+    
+    
+    
+    body {
+    
+        font-family: 'Inspiration', cursive;
+        margin: 0px;
+        color: #333333;
+    
+    }
+    
+    .container {
+    
+        padding: 0rem 1rem;
+        
+    }
+    
+    .container-center {
+    
+        max-width: 600px;
+        margin: auto;
+        padding-top: 1rem;
+        
+    
+       
+    
+    }
+    
+    .navigation {
+    
+        background-color: var(--primary-color);
+        color: black;
+        text-align: center;
+        padding-top: 1rem;
+    }
+    
+    .footer{
+    
+        background-color: var(--primary-color);
+        padding-top: 1rem;
+        padding-bottom: 2rem;
+        text-align: center;
+        color: black;
+        margin:auto;
+        font-family: 'Shadows Into Light', cursive;
+        
+     
+     }
+    
+     .footer .footer-header{
+    
+        font-weight: bold;
+        font-size: large;
+    
+    }
+    
+    .outputdisplaytext{
+    
+        font-weight: bold;
+        font-family: 'Shadows Into Light', cursive;
+    
+    }
+       
+        
+        
+   
